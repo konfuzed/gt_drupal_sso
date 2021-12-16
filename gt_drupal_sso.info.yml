@@ -1,7 +1,6 @@
 type: module
 name: GT Drupal SSO
 description: GT SSO based auth and attributes for Drupal
-core: 9.x
 core_version_requirement: ^9
 
 dependencies:
