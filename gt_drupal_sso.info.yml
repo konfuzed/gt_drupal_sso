@@ -1,0 +1,14 @@
+type: module
+name: GT Drupal SSO
+description: GT SSO based auth and attributes for Drupal
+core: 9.x
+core_version_requirement: ^9
+
+dependencies:
+  - drupal:cas
+  - drupal:cas_attributes
+  - drupal:external_auth
+
+version: '1.0-alpha1'
+project: 'gt_drupal_sso'
+datestamp: 1639074583

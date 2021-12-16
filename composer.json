@@ -1,0 +1,22 @@
+{
+  "name": "gtsciences/gt_drupal_sso",
+  "description": "Provides SSO for Georgia Tech's CASv6.",
+  "type": "drupal-module",
+  "keywords": ["Drupal", "Authentication"],
+  "homepage": "https://github.gatech.edu/cos-web/gt_drupal_sso",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Michael SHeldon (ms123)",
+      "homepage": "https://www.drupal.org/u/eme",
+      "role": "Maintainer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.gatech.edu/cos-web/gt_drupal_sso/issues",
+    "source": "https://github.gatech.edu/cos-web/gt_drupal_sso"
+  },
+  "require": {
+    "drupal/core": "^9.0"
+  }
+}
