@@ -15,8 +15,5 @@
   "support": {
     "issues": "https://github.gatech.edu/cos-web/gt_drupal_sso/issues",
     "source": "https://github.gatech.edu/cos-web/gt_drupal_sso"
-  },
-  "require": {
-    "drupal/core": "^9.0"
   }
 }
