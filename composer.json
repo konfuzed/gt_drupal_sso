@@ -1,7 +1,7 @@
 {
   "name": "gtsciences/gt_drupal_sso",
   "description": "Provides SSO for Georgia Tech's CASv6.",
-  "type": "drupal-module",
+  "type": "drupal-custom-module",
   "keywords": ["Drupal", "CAS", "Authentication"],
   "homepage": "https://github.com/konfuzed/gt_drupal_sso",
   "license": "GPL-2.0-or-later",
