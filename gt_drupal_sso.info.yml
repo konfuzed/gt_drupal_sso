@@ -1,12 +1,15 @@
-type: module
 name: GT Drupal SSO
-description: GT SSO based auth and attributes for Drupal
+package: GT
+type: module
+description: Configuration for Georgia Tech's SSO based auth and attributes (if available) for Drupal sites
 core_version_requirement: ^9
 
 dependencies:
   - drupal:cas
   - drupal:cas_attributes
   - drupal:external_auth
+
+project status url: http://repo.drupal.gatech.edu/release_history/gt_tools/8.x
 
 version: '1.0-alpha1'
 project: 'gt_drupal_sso'
