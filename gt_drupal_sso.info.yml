@@ -3,7 +3,6 @@ package: GT
 type: module
 description: Configuration for Georgia Tech's SSO based auth and attributes (if available) for Drupal sites
 core_version_requirement: ^9 || ^10
-version: dev-main
 
 dependencies:
   - drupal:cas
