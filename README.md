@@ -4,4 +4,4 @@
 
 GT SSO based Drupal auth and attributes wrapper
 
-## This will move back to github.gatech.edu when time allows
+## Settings for sso.gatech.edu CAS server v6 / protocol v3
