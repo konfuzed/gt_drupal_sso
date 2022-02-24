@@ -8,6 +8,3 @@ dependencies:
   - drupal:cas
   - drupal:cas_attributes
   - drupal:externalauth
-
-project status url: 
-
