@@ -17,7 +17,6 @@
     "source": "https://github.com/konfuzed/gt_drupal_sso"
   },
   "require": {
-    "drupal/cas": "^2.0@beta",
-    "drupal/cas_attributes": "^2.0@beta"
+    "drupal/cas": "^2.1"
   }
 }
